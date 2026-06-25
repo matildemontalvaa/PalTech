@@ -6,9 +6,9 @@ PalTech es un sistema embebido basado en ESP32 que permite estimar el estado de 
 
 ## Integrantes del equipo
 
-* Nombre 1 – Jose Tomás Apeleo
-* Nombre 2 – Clemente Duarte
-* Nombre 3 – Matilde Montalva
+* Jose Tomás Apeleo
+* Clemente Duarte
+* Matilde Montalva
 
 ## Problema que resuelve
 
